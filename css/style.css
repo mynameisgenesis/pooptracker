@@ -3,14 +3,20 @@
     margin: 0 auto;
 }
 
-#main {
-  height: 100vh;
-  width:100%;
+body {
   background-image: linear-gradient(to right top, #8b1b96, #e0006c, #ff582f, #eca700, #a8eb12);
 }
 
-.newPuppyForm {
-  background-color: white;
+#main {
+  padding-top:50px;
+  height: 100vh;
+  width:100%;
+  background: white;
+  border-radius: 10px;
+}
+
+.puppyForm {
+  background-image: linear-gradient(to right top, #8b1b96, #e0006c, #ff582f, #eca700, #a8eb12);
 }
 
 form {
